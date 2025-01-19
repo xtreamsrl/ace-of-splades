@@ -1,8 +1,10 @@
-# RAG: One Year Later
+# Beyond the Hype: Building and Evaluating Robust RAG Systems
 
-Become the Ace of SPLADEs!
+## 🚀 Let's get started!
 
-## 🤗 How to contribute
+**name** | **open in**
+:-----: | :-------:
+[Building the Dataset](./notebooks/00-dataset-builder.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xtreamsrl/movies-buddy/blob/main/notebooks/00-dataset-builder.ipynb)
 
 1. Clone the repo.
 
@@ -23,3 +25,4 @@ uv sync
 ```bash
 uv run pre-commit install --install-hooks
 ```
+
