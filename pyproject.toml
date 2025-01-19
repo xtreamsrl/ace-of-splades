@@ -20,6 +20,8 @@ dependencies = [
 
 [dependency-groups]
 dev = [
+    "ipywidgets>=8.1.5",
+    "jupyterlab>=4.3.4",
     "pre-commit-uv>=4.1.4",
 ]
 
